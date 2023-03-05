@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1 align="center">
+ᴡᴇʟᴄᴏᴍᴇ 
+</h1>
 
-<!--
-**cactugigi/cactugigi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+hi, i'm giselle! ٩(｡•́‿•̀｡)۶ <br />
 
-Here are some ideas to get you started:
+  i like to dig into the tech world sometimes.<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+<br />
+<img src="https://media4.giphy.com/media/Y1IFN5kK9E7fO/giphy.gif?cid=ecf05e4704pufs6r4o6j8gq5dlod0ri29l73eiokf54t9r5v&rid=giphy.gif&ct=s" align="left" style="width: 400px; height: 375px; object-fit: scale-down;">
+
+**ᴛᴇᴄʜ ɪɴᴛᴇʀᴇꜱᴛꜱ** <br />
+----
+• web and mobile development <br />
+• UI/UX design <br />
+• game development <br />
+• computer graphics
+
+**ʜᴏʙʙɪᴇꜱ** <br />
+----
+• digital & 3d art <br />
+• gaming, kingdom hearts is my favorite! <br />
+• streaming & video editing <br />
+• fashion <br />
